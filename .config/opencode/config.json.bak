@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "path": "/root/.opencode/plugins/nexo-inject.ts",
+      "enabled": true
+    }
+  ]
+}

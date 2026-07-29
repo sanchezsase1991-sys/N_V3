@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "nexo-memory": {
+      "command": "/usr/local/bin/cortex",
+      "args": ["mcp"],
+      "env": {
+        "MEMORY_CORTEX_DIR": "/root/.memory-cortex"
+      }
+    }
+  }
+}

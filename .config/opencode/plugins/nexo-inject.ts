@@ -1,0 +1,1 @@
+/root/.opencode/plugins/nexo-inject.ts
